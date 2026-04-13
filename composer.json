@@ -1,0 +1,11 @@
+{
+    "name": "yashironene/hanako",
+    "description": "the wonder No. 7",
+    "type": "library",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "hanako\\kun\\": "src/"
+          }
+      }
+}
